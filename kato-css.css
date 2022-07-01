@@ -1,0 +1,27 @@
+body{
+    background-color: rosybrown;
+}
+#q1{
+    color: black;
+}
+#q2{
+    color: darkred;
+}
+#q3{
+    color: blue;
+}
+#q4{
+    color: green;
+}
+h1{
+    font-size: 350%;
+    font-weight: bolder;
+}
+.page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.yes{
+    color:darkslateblue;
+}
